@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Infrastructure.Core": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
